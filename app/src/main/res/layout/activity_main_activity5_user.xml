@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:padding="20dp"
+android:gravity="center"
+tools:context=".MainActivity5_user">
+
+
+<TextView
+    android:id="@+id/admin_welcome"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Welcome to User Account"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:gravity="center"
+    android:layout_marginBottom="24dp" />
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+
+
+
+    <Button
+        android:id="@+id/watch_live_score_user"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Watch live score"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/match_schedule_user"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Match schedule"
+        android:layout_marginBottom="12dp" />
+</LinearLayout>
+</LinearLayout>

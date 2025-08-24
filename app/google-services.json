@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530056437930",
+    "project_id": "uoc-baseball",
+    "storage_bucket": "uoc-baseball.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530056437930:android:1d7b23903f32559f9570d3",
+        "android_client_info": {
+          "package_name": "com.example.tharaka1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlZwrVvqODTt9RyN8Qy82jeFJ622DSptw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
